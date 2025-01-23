@@ -1,0 +1,10 @@
+insert into transaction (account_id, amount) values (1, 529621.49);
+insert into transaction (account_id, amount) values (2, 281095.27);
+insert into transaction (account_id, amount) values (3, 220573.58);
+insert into transaction (account_id, amount) values (4, 503218.88);
+insert into transaction (account_id, amount) values (5, 429898.04);
+insert into transaction (account_id, amount) values (6, 922201.25);
+insert into transaction (account_id, amount) values (7, 636782.43);
+insert into transaction (account_id, amount) values (8, 223920.47);
+insert into transaction (account_id, amount) values (9, 749963.0);
+insert into transaction (account_id, amount) values (10, 735573.76);
