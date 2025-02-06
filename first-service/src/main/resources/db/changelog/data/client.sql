@@ -1,0 +1,10 @@
+insert into client (first_name, last_name, middle_name) values ('Augie', 'Busfield', 'Haywood');
+insert into client (first_name, last_name, middle_name) values ('Wilfred', 'Cartmale', 'Ritchie');
+insert into client (first_name, last_name, middle_name) values ('Cheston', 'Churchward', 'Sylvester');
+insert into client (first_name, last_name, middle_name) values ('Edythe', 'Westmore', 'Yehudi');
+insert into client (first_name, last_name, middle_name) values ('Wendy', 'Von Oertzen', 'Lyle');
+insert into client (first_name, last_name, middle_name) values ('Rabi', 'Dencs', 'Langston');
+insert into client (first_name, last_name, middle_name) values ('Corey', 'Furlow', 'Sawyer');
+insert into client (first_name, last_name, middle_name) values ('Sadella', 'Waylett', 'Thornie');
+insert into client (first_name, last_name, middle_name) values ('Kania', 'Baldack', 'Leopold');
+insert into client (first_name, last_name, middle_name) values ('Jammie', 'Titman', 'Ray');

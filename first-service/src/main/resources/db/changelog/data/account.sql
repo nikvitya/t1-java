@@ -1,0 +1,10 @@
+insert into account (client_id, type, balance) values (1, 'CREDIT', 864126.42);
+insert into account (client_id, type, balance) values (2, 'CREDIT', 934010.64);
+insert into account (client_id, type, balance) values (3, 'CREDIT', 163836.71);
+insert into account (client_id, type, balance) values (4, 'DEBIT', 463761.03);
+insert into account (client_id, type, balance) values (5, 'DEBIT', 205937.22);
+insert into account (client_id, type, balance) values (6, 'DEBIT', 685258.6);
+insert into account (client_id, type, balance) values (7, 'CREDIT', 715172.88);
+insert into account (client_id, type, balance) values (8, 'CREDIT', 814573.4);
+insert into account (client_id, type, balance) values (9, 'CREDIT', 247033.98);
+insert into account (client_id, type, balance) values (10, 'CREDIT', 31178.15);
